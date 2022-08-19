@@ -7,7 +7,7 @@ export function makeHome(){
     pMade.innerText = "Made with passion since 1992"
     const divImg = document.createElement('div')
     const img = document.createElement('img')
-    img.src = "../images/chef.png"
+    img.src = "../dist/images/chef.png"
     divImg.appendChild(img)
     const pOrder = document.createElement('p')
     pOrder.innerText = "order online or visit us"

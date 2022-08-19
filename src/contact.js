@@ -9,7 +9,7 @@ export function makeContact(){
     adressP.innerText = "🏠 Hollywood Boulevard 42, Los Angeles, USA"
 
     const imageP = document.createElement('img')
-    imageP.src = "../images/restaurant-location.png"
+    imageP.src = "../dist/images/restaurant-location.png"
 
     contactDiv.append(contactP)
     contactDiv.append(adressP)
