@@ -6,7 +6,7 @@ export function makeMenu() {
     const menuItem1 = document.createElement("div")
     menuItem1.classList.add('menu-item')
     const item1Img = document.createElement('img')
-    item1Img.src = "../dist/images/salsiccia.png"
+    item1Img.src = "images/salsiccia.png"
     const item1H2 = document.createElement('h2')
     item1H2.innerText = "Salsiccia"
     const item1P = document.createElement('p')
@@ -19,7 +19,7 @@ export function makeMenu() {
     const menuItem2 = document.createElement("div")
     menuItem2.classList.add('menu-item')
     const item2Img = document.createElement('img')
-    item2Img.src = "../dist/images/gamberi.png"
+    item2Img.src = "images/gamberi.png"
     const item2H2 = document.createElement('h2')
     item2H2.innerText = "Gamberi"
     const item2P = document.createElement('p')
@@ -32,7 +32,7 @@ export function makeMenu() {
     const menuItem3 = document.createElement("div")
     menuItem3.classList.add('menu-item')
     const item3Img = document.createElement('img')
-    item3Img.src = "../dist/images/pepe.png"
+    item3Img.src = "images/pepe.png"
     const item3H2 = document.createElement('h2')
     item3H2.innerText = "Pepe"
     const item3P = document.createElement('p')
@@ -45,7 +45,7 @@ export function makeMenu() {
     const menuItem4 = document.createElement("div")
     menuItem4.classList.add('menu-item')
     const item4Img = document.createElement('img')
-    item4Img.src = "../dist/images/disgustoso.png"
+    item4Img.src = "images/disgustoso.png"
     const item4H2 = document.createElement('h2')
     item4H2.innerText = "Disgustoso"
     const item4P = document.createElement('p')
@@ -58,7 +58,7 @@ export function makeMenu() {
     const menuItem5 = document.createElement("div")
     menuItem5.classList.add('menu-item')
     const item5Img = document.createElement('img')
-    item5Img.src = "../dist/images/colorato.png"
+    item5Img.src = "images/colorato.png"
     const item5H2 = document.createElement('h2')
     item5H2.innerText = "Colorato"
     const item5P = document.createElement('p')
@@ -71,7 +71,7 @@ export function makeMenu() {
     const menuItem6 = document.createElement("div")
     menuItem6.classList.add('menu-item')
     const item6Img = document.createElement('img')
-    item6Img.src = "../dist/images/pomodoro.png"
+    item6Img.src = "images/pomodoro.png"
     const item6H2 = document.createElement('h2')
     item6H2.innerText = "Pomodoro"
     const item6P = document.createElement('p')
@@ -84,7 +84,7 @@ export function makeMenu() {
     const menuItem7 = document.createElement("div")
     menuItem7.classList.add('menu-item')
     const item7Img = document.createElement('img')
-    item7Img.src = "../dist/images/crema.png"
+    item7Img.src = "images/crema.png"
     const item7H2 = document.createElement('h2')
     item7H2.innerText = "Crema"
     const item7P = document.createElement('p')
@@ -97,7 +97,7 @@ export function makeMenu() {
     const menuItem8 = document.createElement("div")
     menuItem8.classList.add('menu-item')
     const item8Img = document.createElement('img')
-    item8Img.src = "../dist/images/carne.png"
+    item8Img.src = "images/carne.png"
     const item8H2 = document.createElement('h2')
     item8H2.innerText = "Carne"
     const item8P = document.createElement('p')
